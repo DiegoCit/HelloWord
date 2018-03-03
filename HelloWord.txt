@@ -1,0 +1,1 @@
+Hello Word. Meu primeiro arquivo versionado no GIT.
